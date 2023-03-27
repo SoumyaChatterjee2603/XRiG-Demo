@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543050554558",
+    "project_id": "x-rig-7965e",
+    "storage_bucket": "x-rig-7965e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543050554558:android:4e24df9688fefb35f992ef",
+        "android_client_info": {
+          "package_name": "com.example.xrig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543050554558-l5rht0lce90vi2f03a1i86t9889goqug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7oDxW6xyHOTeuss9n5akFHuk2bAcJkwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543050554558-l5rht0lce90vi2f03a1i86t9889goqug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
